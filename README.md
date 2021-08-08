@@ -11,3 +11,5 @@ mkdir gitdemo
 cd gitdemo
 touch index.html Texts.txt C_Program.c HelloJava.java index.js styles.css typo.ts
 ls -l
+
+Git pull
